@@ -1,6 +1,6 @@
 # expense_planner
 
-A new Flutter project.
+A new Flutter project in udemy course about Flutter & Dart by Academind by Maximilian Schwarzmüller.
 
 ## Getting Started
 
