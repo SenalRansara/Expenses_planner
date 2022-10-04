@@ -1,6 +1,7 @@
 # expense_planner
 
 A new Flutter project in udemy course about Flutter & Dart by Academind by Maximilian Schwarzmüller.
+this app is all about planning your expenses.
 
 ## Getting Started
 
